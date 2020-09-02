@@ -1,0 +1,123 @@
+
+baudant@PC-anaele MINGW64 ~ (master)
+$ pwd
+/c/Users/baudant
+
+baudant@PC-anaele MINGW64 ~ (master)
+$ cd 'OneDrive - BEFIVE'
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE (master)
+$ cd italians_do_it_better
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ ls
+ABC_text.txt                         italiens_do_it_better_nielsen.ipynb
+Italians_do_it_better_MongoDB.ipynb  README.md
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ABC_text.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git add .
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   ABC_text.txt
+
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git commit -m 'I ve created a test file'
+[master a3e4e30] I ve created a test file
+ Committer: Anaele Baudant <baudant@befive.fr>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 ABC_text.txt
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git remote add origin https://github.com/user/repo.git
+fatal: remote origin already exists.
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git remote add origin https://github.com/alex-toy/italians_do_it_better
+fatal: remote origin already exists.
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git push -u origin master
+remote: Permission to alex-toy/italians_do_it_better.git denied to anaele-paris.
+fatal: unable to access 'https://github.com/alex-toy/italians_do_it_better.git/': The requested URL returned error: 403
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git branch
+* master
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (master)
+$ git checkout -b dev
+Switched to a new branch 'dev'
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git branch
+* dev
+  master
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git push origin dev
+remote: Permission to alex-toy/italians_do_it_better.git denied to anaele-paris.
+fatal: unable to access 'https://github.com/alex-toy/italians_do_it_better.git/': The requested URL returned error: 403
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git branch
+* dev
+  master
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git status
+On branch dev
+nothing to commit, working tree clean
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git ls-files
+.ipynb_checkpoints/Italians_do_it_better_MongoDB-checkpoint.ipynb
+.ipynb_checkpoints/italiens_do_it_better_nielsen-checkpoint.ipynb
+ABC_text.txt
+Italians_do_it_better_MongoDB.ipynb
+README.md
+italiens_do_it_better_nielsen.ipynb
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git commit -a
+On branch dev
+nothing to commit, working tree clean
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$ git push
+fatal: The current branch dev has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin dev
+
+
+baudant@PC-anaele MINGW64 ~/OneDrive - BEFIVE/italians_do_it_better (dev)
+$
