@@ -1,0 +1,1990 @@
+O_brands_tags_str,O_EAN13
+nan,1000
+['heinz'],233
+[],221
+['u'],203
+['auchan'],159
+['carrefour'],143
+['panzani'],139
+['sacla'],110
+['casino'],89
+['leader-price'],85
+['barilla'],77
+['amora'],72
+['picard'],65
+['cora'],61
+['zapetti'],57
+['knorr'],53
+['colona'],51
+"['rustica', 'marque-repere']",44
+['benedicta'],41
+['mutti'],37
+['marks-spencer'],36
+['fleury-michon'],35
+['danival'],35
+['florelli'],31
+['belle-france'],31
+['lesieur'],30
+['monoprix'],28
+['bouton-d-or'],27
+['la-vie-claire'],27
+['lee-kum-kee'],26
+['kania'],26
+['delhaize'],26
+['thiriet'],25
+['prosain'],25
+['franprix'],25
+['delicato'],24
+['maison-riviere'],23
+['netto'],23
+['dia'],23
+"['turini', 'marque-repere']",23
+['orlando'],22
+"['ducros', 'mccormick']",22
+['fiorini'],22
+['maggi'],22
+['emile-noel'],21
+['nawhal-s'],21
+['blini'],20
+"['jardin-bio', 'lea-nature']",20
+['lucien-georgelin'],20
+['italiamo'],20
+['christian-potier'],20
+['marius-bernard'],20
+"['u-saveurs', 'u']",19
+['ducros'],19
+['go-tan'],18
+['daunat'],18
+['tesco'],18
+['mcdonald-s'],17
+['bio-verde'],16
+['la-belle-chaurienne'],16
+['cirio'],16
+['patak-s'],16
+['jean-martin'],16
+['old-el-paso'],16
+['louis-martin'],15
+['tabasco'],15
+"['monoprix-gourmet', 'monoprix']",14
+['le-voyage-de-mamabe'],14
+['uncle-ben-s'],14
+['laselva'],14
+['yarden'],14
+['vitasia'],14
+['develey'],14
+['combino'],14
+['kraft'],14
+['manna'],14
+['albert-menes'],13
+['star'],13
+['charal'],13
+['ayam'],13
+['saupiquet'],13
+['chovi'],13
+['william-saurin'],13
+['coop'],13
+['hellmann-s'],12
+"['knorr', 'unilever']",12
+['toupargel'],12
+['marie'],12
+['exotic-food'],12
+['maayane'],12
+['d-l'],12
+['eric-bur'],12
+['altesse'],12
+['ensoleil-ade'],12
+['alnatura'],12
+['cock-brand'],12
+['le-coq-noir'],11
+"['amora', 'unilever']",11
+"['bio-village', 'marque-repere']",11
+['florette'],11
+['l-atelier-blini'],11
+['l-atelier-v'],11
+"['casino-bio', 'casino']",11
+['kuhne'],11
+['hela'],11
+['di-vita'],11
+['solis'],11
+['samia'],11
+['les-mets-de-provence'],11
+['freshona'],11
+['jack-daniel-s'],11
+['terre-di-sangiorgio'],10
+['primeal'],10
+['italians-do-it-better'],10
+['calve'],10
+['jardin-bio'],10
+"['u-bio', 'u']",10
+['devos-lemmens'],10
+['kikkoman'],10
+['ciro'],10
+['halwa'],10
+['metro-chef'],10
+['florentin'],10
+['kerets'],10
+['delpierre'],9
+['cucina-antica'],9
+"['jean-larnaudie', 'larnaudie']",9
+['weight-watchers'],9
+['lidl'],9
+['polli'],9
+['saint-christophe'],9
+['testdfc'],9
+['grand-jury'],9
+['ederki'],9
+['le-phare-du-cap-bon'],9
+['naturata'],9
+['eco'],9
+['prozis'],9
+['suree'],9
+['suzi-wan'],9
+['rapunzel'],9
+['bertolli'],8
+"['leader-price', 'dlp-distribution-leader-price', 'groupe-casino']",8
+"['maggi', 'nestle']",8
+['bien-vu'],8
+['maitre-coq'],8
+['la-william'],8
+['psp'],8
+['felix'],8
+['toque-du-chef'],8
+['asda'],8
+['s-b'],8
+['chef'],8
+['rummo'],8
+['winny'],8
+['solleone'],8
+['stephan'],8
+['fuchs'],8
+['connetable'],8
+['victoria'],8
+['ifantis'],8
+"['carrefour-bio', 'carrefour']",8
+['sud-n-sol'],7
+['agromonte'],7
+['mont-asie'],7
+"['marque-repere', 'rustica']",7
+['les-bories'],7
+['sakari'],7
+['san-cassiano'],7
+['french-s'],7
+"['tables-du-monde', 'marque-repere']",7
+['d-aucy'],7
+['miracoli'],7
+['mieum'],7
+['sainsbury-s'],7
+['eden-gourmet'],7
+['agnesi'],7
+['bionaturae'],7
+['pietro-castelli'],7
+['pringles'],7
+['tipiak'],7
+['la-belle-iloise'],7
+['helios'],7
+['reflets-de-france'],7
+['hida'],7
+['la-bio-idea'],7
+"['casino-saveurs-d-ailleurs', 'casino']",7
+['le-conserve-della-nonna'],7
+['giraudet'],7
+['tous-les-jours'],7
+['claude-leger'],6
+['horeca'],6
+['ikea'],6
+['maison-malartre'],6
+['deluxe'],6
+['ferrer'],6
+['la-costena'],6
+['bjorg'],6
+['loyd-grossman'],6
+['bull-s-eye'],6
+['walima'],6
+['florenti'],6
+['le-cabanon'],6
+['le-delizie-di-mamma-puggia'],6
+['le-grand-lejon'],6
+['gallo'],6
+['kazidomi'],6
+['thomy'],6
+['rajah'],6
+['petitjean'],6
+"['monoprix-bio', 'monoprix']",6
+['aro'],6
+['stonewall-kitchen'],6
+['nixe'],6
+['amilcar'],6
+['baton-rouge'],6
+['rochambeau'],6
+['oliviers-co'],6
+['palazzo'],6
+"['turini', 'marque-repere', 'scamark-filiale-e-leclerc']",5
+['capitaine-cook'],5
+['baresa'],5
+['pernici'],5
+['pere-olive'],5
+['doritos'],5
+['baktat'],5
+['byodo'],5
+['dolmio'],5
+['l-italie-des-saveurs'],5
+['dietbon'],5
+"['tabasco', 'mc-ilhenny-co']",5
+['la-p-tite-sauce-du-poissonnier'],5
+['buitoni'],5
+['spar'],5
+['poco-loco'],5
+"['carrefour', 'cmi-carrefour-marchandises-internationales', 'groupe-carrefour']",5
+['regalo'],5
+['shneider-s'],5
+['sicam'],5
+"['champlat', 'reserve-de-champlat']",5
+['gastromer'],5
+['asia-green-garden'],5
+"['casino-delices', 'casino']",5
+['gourmet'],5
+['casino-bio'],5
+['green-saffron'],5
+['top-budget'],5
+['tramier'],5
+['raynal-et-roquelaure'],5
+['prima'],5
+['hp'],5
+['hunts'],5
+['pralina'],5
+"['pouce', 'auchan']",5
+['en-cuisine'],5
+['carrefour-bio'],5
+['ponti'],5
+['tasty'],5
+['valbio'],5
+['selection'],5
+['le-revelois'],5
+['bio'],5
+['les-impeccables'],5
+['m-s'],5
+['alelor'],5
+['bio-naturae'],5
+['coop-naturaplan'],5
+['creazioni-d-italia'],5
+['boni'],5
+['mcennedy'],5
+['thai-heritage'],5
+['de-cecco'],5
+['del-monte'],5
+['biocoop'],5
+"['cote-table', 'marque-repere']",5
+['conad'],5
+['treo'],5
+['meme-georgette'],4
+['reghalal'],4
+['cucina'],4
+['casa-rinaldi'],4
+['fountain'],4
+['santa-maria'],4
+['m-classic'],4
+['hema'],4
+['garofalo'],4
+['gyma'],4
+['sharwood-s'],4
+['mieux-manger'],4
+['blue-dragon'],4
+['blue-elephant'],4
+['anda'],4
+"['por-kwan', 'nr-instant-produce-co-ltd']",4
+['napolina'],4
+['segreti-di-riva'],4
+['frankys-bakery'],4
+"['sodebo', 'le-mega-baguette']",4
+['covinor'],4
+['antico-casale'],4
+['gilbert'],4
+['artisans-du-monde'],4
+['castaing'],4
+['costa-ligure'],4
+['classico'],4
+['sacla-italia'],4
+['remia'],4
+['monique-ranou'],4
+['fuego'],4
+['san-fabio'],4
+"['marche-franprix', 'franprix']",4
+['chef-select'],4
+['wassila'],4
+['thai-kitchen'],4
+['delices-d-orient'],4
+['itineraire-des-saveurs'],4
+"['kikkoman', 'kikkoman-sales-usa-inc']",4
+['bonduelle'],4
+['servivita'],4
+['al-wadi'],4
+['elvea'],4
+['divin-bio'],4
+['l-epicurien'],4
+['moulin-des-moines'],4
+['nonna-bruna'],4
+['a-capella'],4
+['la-pointe-de-penmarc-h'],4
+['la-sablaise'],4
+['trader-joe-s'],4
+['larnaudie'],4
+['denner'],4
+['le-cabanon-en-provence'],4
+['le-petit-paris'],4
+['natural-zero'],4
+['monoprix-gourmet'],4
+['les-3-chouettes'],4
+['eden'],4
+['zgolli'],4
+['aix-terra'],4
+['alain-martin'],4
+['les-saveurs-de-savino'],4
+['tip'],4
+['phare-d-eckmuhl'],4
+['dame-besson'],4
+['lima'],4
+"['thai-kitchen', 'mccormick']",4
+['bon-chef'],4
+"['karine-jeff', 'le-bonheur-est-dans-le-pot']",4
+['sodebo'],3
+['entr-acte'],3
+['terre-d-italia'],3
+"['cora', 'groupe-louis-delhaize']",3
+['terra-sana'],3
+"['fiorini', 'selection-des-mousquetaires', 'les-mousquetaires']",3
+['dounia-halal'],3
+['dessaint'],3
+['zwergenwiese'],3
+['eridanous'],3
+['tang-freres'],3
+['signorelli'],3
+['tien-shan'],3
+"['zapetti', 'raynal-et-roquelaure']",3
+['stubb-s'],3
+['simon'],3
+['encona'],3
+['sweet'],3
+['sweet-baby-ray-s'],3
+['zeisner'],3
+['sol-mar'],3
+['simtom'],3
+['ybarra'],3
+"['thomy', 'nestle']",3
+['espig'],3
+['dunnes-stores'],3
+['cruscana'],3
+['huy-fong'],3
+['select-maree'],3
+['saveurs-attitudes'],3
+['la-madre-terra'],3
+['ursini'],3
+['labeyrie'],3
+['nestle'],3
+['natureo'],3
+['le-chef'],3
+"['tradizioni-d-italia', 'tradizioni-d-italia']",3
+['natura'],3
+['le-petit-cuisinier'],3
+['le-temps-des-mets'],3
+['le-traiteur-gourmet'],3
+['lea-nature'],3
+['morrisons'],3
+['moona'],3
+['monti'],3
+"['les-delices-de-belle-france', 'belle-france']",3
+['les-doris'],3
+['les-pecheurs-des-calanques'],3
+['lien-ying'],3
+"['mmm', 'auchan']",3
+"['metro-chef', 'metro']",3
+['meditea'],3
+['madern'],3
+['maille'],3
+['masque-d-or'],3
+"['marque-repere', 'turini']",3
+['marcel-recorbet'],3
+"['marque-repere', 'tables-du-monde']",3
+['marinoe'],3
+['newman-s-own'],3
+"['notre-terre', 'le-temps-des-mets']",3
+['obento'],3
+"['marque-repere', 'ferial']",3
+['fontaine-sante'],3
+['sans-marque'],3
+['sainte-lucie'],3
+['gallina-blanca'],3
+['giaguaro'],3
+['giovanni-rana'],3
+['rustica'],3
+['rolli'],3
+['rivoire-carret'],3
+['grand-mere'],3
+['henaff'],3
+['produits-blancs'],3
+['hunt-s'],3
+['il-nutrimento'],3
+"['old-el-paso', 'general-mills']",3
+['por-kwan'],3
+['pleurette'],3
+['jean-caby'],3
+['jean-d-audignac'],3
+['jouda'],3
+['k-classic'],3
+"['kania', 'lidl']",3
+['very-veg'],3
+['karine-jeff'],3
+['kfc'],3
+['pantai'],3
+['l-aperitif'],3
+['l-apero-du-poissonnier'],3
+['les-delices-du-maraicher'],3
+['la-reserve-de-champlat'],3
+['co-op'],3
+['campo-verde'],3
+['cal-valls'],3
+['amoy'],3
+['alce-nero'],3
+"['auchan', 'l-oiseau', 'auchan-production', 'groupe-auchan']",3
+['al-fez'],3
+"['boursin', 'bel']",3
+['a-la-table-de-mathilde'],3
+"['carrefour-selection', 'carrefour']",3
+['comme-j-aime'],3
+['au-bec-fin'],3
+['bionova'],3
+['bonneterre'],3
+['biorganica-nuova'],3
+['bamboo-garden'],3
+['conserverie-courtin'],3
+['cock'],3
+['bernbacher'],3
+['celorrio'],3
+['cigalou'],3
+"['bon-app', 'carrefour']",3
+['chef-select-to-go'],3
+['amaury'],3
+"['carrefour', 'carrefour-selection']",3
+"['cigalou', 'intermarche']",3
+['barakafrites'],3
+['authentique-grec'],3
+['aroy-d'],3
+['blair-s'],3
+['asian-home-gourmet'],2
+['saladinettes'],2
+['capell'],2
+['camarillo'],2
+['jr'],2
+['royal-thai'],2
+"['calve', 'unilever']",2
+['kaufland'],2
+['royal-halal'],2
+['care-free'],2
+['jermayo'],2
+"['knorr', 'unilever-food-solutions', 'unilever']",2
+['kirkland'],2
+['jean-roze'],2
+['kooz'],2
+['rodolfi'],2
+"['la-reserve-de-champlat', 'champlat', 'reserve-de-champlat']",2
+['pur-ketchup'],2
+['pural'],2
+['la-preserverie'],2
+"['quick', 'heinz']",2
+['la-marmite-bretonne'],2
+['rabeko-products'],2
+['raffaelli'],2
+['rana'],2
+['la-cuisine-de-manon'],2
+['la-cuisine-d-autrefois'],2
+"['auchan-bio', 'auchan', 'l-oiseau', 'auchan-production', 'groupe-auchan']",2
+['la-cocotte-gourmande'],2
+['la-cancalaise'],2
+"['auchan', 'mmm']",2
+['reserve-de-champlat'],2
+['rewe'],2
+['riad'],2
+['l-assiette-bleue'],2
+['carloni'],2
+['c-mon-regime'],2
+['mix'],2
+['saveurs-a'],2
+['carmencita'],2
+['gefro'],2
+['sol-via'],2
+['soleil-reunion'],2
+['soleillans'],2
+['grazie-amore'],2
+['granoro'],2
+['spanico'],2
+['st-hubert'],2
+['goulettoise'],2
+['casino-delices'],2
+['stokes'],2
+['suntat'],2
+['guad-epices'],2
+['super-u'],2
+['garbit'],2
+['cereal-bio'],2
+['chaleur-creole'],2
+['supervalu'],2
+['freeway'],2
+['t-t-foods'],2
+"['frank-s', 'reckitt-benckiser-inc']",2
+['foco'],2
+['fnare'],2
+['grupo-cuervo-s-a'],2
+"['anna-s-best', 'migros']",2
+"['carrefour', 'carrefour-bio']",2
+['saxo'],2
+['sarf'],2
+['sau-cee'],2
+"['itineraire-des-saveurs', 'intermarche']",2
+"['carrefour', 'groupe-carrefour']",2
+['intermarche'],2
+['inca-s-food'],2
+['ilou'],2
+['saveurs-sauces'],2
+"['carrefour-discount', 'carrefour']",2
+['savor-sens-tradition'],2
+['schwartz'],2
+['sofram'],2
+['senfas'],2
+['shamsy'],2
+"['casa-fiesta', 'santa-maria']",2
+['casa-fiesta'],2
+['shimon-ariche'],2
+['apis'],2
+['healthy-boy-brand'],2
+['antico-casalo'],2
+['happy-yours'],2
+['halal-maiza'],2
+['pudliszki'],2
+['le-bois-jumel'],2
+['produits-saint-christophe'],2
+['maiza'],2
+['marqolive'],2
+['biona-organic'],2
+['marks-and-spencer'],2
+['naturaplan'],2
+['nature-bio'],2
+['mardel'],2
+['marche-franprix'],2
+"['belle-france', 'francap-distribution']",2
+['nautilus'],2
+['bee-cee'],2
+['bbque'],2
+['maitre-gustille'],2
+['autour-du-riz'],2
+['nissin'],2
+['bioverde'],2
+['maison-petricorena'],2
+['maison-de-la-truffe'],2
+['bipia'],2
+"['maggi', 'nestle', 'maggi-saveur-a-l-ancienne']",2
+['made-for-meat'],2
+['macarico'],2
+['m-de-turenne'],2
+['ong-xen'],2
+['longobardi'],2
+['natur-avenir'],2
+['biona'],2
+"['nat-vie', 'marque-repere']",2
+['nando-s'],2
+['mississippi'],2
+['miss-algae'],2
+['mizkan'],2
+['milliat-freres'],2
+['moisson-sante'],2
+['millas'],2
+['mil-brick'],2
+['monini'],2
+['migros-bio'],2
+['biffi'],2
+"['monoprix', 'monoprix-bio']",2
+['bibigo'],2
+['monoprix-bio'],2
+['bf'],2
+['betty-bossi'],2
+['bio-bandits'],2
+['mericq'],2
+['best-choice'],2
+"['bertolli', 'unilever']",2
+['morvandelles'],2
+['mcilhenny-co'],2
+['mccormick'],2
+['mum-s'],2
+['lol-tun'],2
+['loeul-et-piriot'],2
+['lingham-s'],2
+['pierre-martinet'],2
+['le-vieux-chene'],2
+['pietro-coricelli'],2
+['bornier'],2
+['plaisirs-de-bourgogne'],2
+"['bouton-d-or', 'intermarche']",2
+['le-petit-marmiton'],2
+['bragg'],2
+['podravka'],2
+['pomito'],2
+['le-kiosque-a-sandwiches'],2
+['brake'],2
+['aymard'],2
+['portland'],2
+['branston'],2
+['bridelice'],2
+['le-comptoir-de-mathilde'],2
+['prego'],2
+['president'],2
+['tartex'],2
+['primal-nutrition'],2
+['avi-kosher'],2
+"['brume', 'food-co']",2
+['lambert'],2
+['borges'],2
+"['leader-price-fine-ligne', 'dlp-distribution-leader-price', 'groupe-casino']",2
+['oro-d-italia'],2
+['petti'],2
+['oro-di-parma'],2
+['ligeresa'],2
+['bo-no'],2
+['p-w'],2
+['levi-roots'],2
+['les-saveurs-du-clavon'],2
+['baron-d-assayac'],2
+['baron'],2
+['parampara'],2
+['les-legendaires'],2
+"['les-legendaires', 'aldi']",2
+['les-jardins-de-la-vere'],2
+['patrick-verriere'],2
+['paul-louise'],2
+['les-delices-de-savino'],2
+"['les-delices-de-savino', 'agidra']",2
+"['peche-ocean', 'marque-repere']",2
+['les-confitures-de-haute-soule'],2
+['les-comptoirs-de-carthage'],2
+['pere-dodu'],2
+['bonpreu'],2
+"['lee-kum-kee', 'lee-kum-kee-xinhui-food-co-ltd']",2
+['lechef'],2
+['flying-goose-brand'],2
+['mix-buffet'],2
+"['eridanous', 'lidl']",2
+['terrasana'],2
+"['devos-lemmens', 'd-l']",2
+['delpeyrat'],2
+['wang-korea'],2
+['agidra'],2
+['ygriega'],2
+['thai-agri-foods-public-company-limited'],2
+['abc'],2
+['valentina'],2
+"['ferial', 'marque-repere']",2
+['eaglobe'],2
+['valbona'],2
+"['dietbon', 'kitchen-diet', 'kitchen-diet']",2
+['albert-heijn'],2
+['colman-s'],2
+['al-dente-la-salsa'],2
+['delikato'],2
+['elle-vire'],2
+['esti'],2
+['findus'],2
+"['de-cecco', 'dececco']",2
+['thai-dancer'],2
+['vandemoortele'],2
+['despar'],2
+['dave-s-gourmet'],2
+['werder-feinkost'],2
+"['top-budget', 'les-mousquetaires']",2
+"['toque-du-chef', 'lidl-stiftung-co-kg']",2
+"['deluxe', 'italiamo']",2
+['venturino-bartolomeo'],2
+['wilkin-sons-ltd'],2
+['thai-pride'],2
+['touch-de-chef'],2
+"['tout-feu-tout-frais', 'bredial']",2
+['weber'],2
+['variette'],2
+['vesu'],2
+['alacena'],2
+['el-yucateco'],2
+['conserverie-gonidec'],2
+['ethnoscience'],2
+['ethnic-delights'],2
+['esselunga'],2
+"['toque-du-chef', 'lidl']",2
+['dulfrance'],2
+['ensalandia'],2
+"['domino-s-pizza', 'domino-s']",2
+['tiparos'],2
+['un-chef-en-provence'],2
+['colgin'],2
+['tustin'],2
+['tendre-plus'],2
+['365'],2
+"['delicato', 'aldi']",2
+"['encona', 'grace-foods']",2
+['clearspring'],2
+"['cote-snack', 'marque-repere']",2
+"['cote-table', 'marque-repere', 'scamark-filiale-e-leclerc']",2
+['a-l-olivier'],2
+['coudene'],2
+['corbeille-d-or'],2
+['zanuy'],2
+['cholula'],2
+['clever'],2
+['especias-castillo-s-a-de-c-v'],2
+['coosur'],2
+['ail-ail-ail'],2
+['delice-du-nord'],2
+['dee-thai'],2
+['esmeralda'],2
+['pekočko'],1
+['very-g'],1
+['perchecicredo'],1
+['agir-carrefour-nutrition'],1
+['pcd'],1
+['palazzo-n-20089-rozzano-mi'],1
+['vitaminka'],1
+['perche-ci-credo'],1
+['penny'],1
+['palais-des-mets'],1
+['baron-rouge'],1
+['pay-pay'],1
+"['perard', 'regals-du-touquet']",1
+"['peny', 'compagnie-generale-de-conserve']",1
+"['panzani', 'qualite-fraichement-cuisinee']",1
+"['pantai', 'pantainorasingh']",1
+['villaolivo'],1
+['parmalat'],1
+['pasco'],1
+['vignolis'],1
+['viet-vi'],1
+['paralleles'],1
+['pasta-aromi'],1
+['paraisin'],1
+['pasta-et-aromi'],1
+['papaya-le-saucier-provencal'],1
+['pat-boul-de-provence'],1
+"['patak-s', 'patak-s']",1
+['barob'],1
+['papa-sauce'],1
+['papa-joe-s'],1
+['paturages'],1
+"['vico', 'intersnack-france', 'intersnack']",1
+['paul-s-quinoa'],1
+['villa-gusto'],1
+['pauwels'],1
+"['panzani', 'soulie-restauration']",1
+['vila-vella'],1
+['vianeza'],1
+"['panzani', 'ebro-foods']",1
+['paso'],1
+['philia'],1
+['barnier-olives'],1
+['babelicot'],1
+['pot-bio'],1
+"['une-autre-facon', 'apidis']",1
+['unilever'],1
+['univer'],1
+['up'],1
+['agis'],1
+"['popp', 'feinkost-popp']",1
+['ayam-brand'],1
+['v-thai-food-product-co-ltd'],1
+['bad-reichenhaller'],1
+['pomodoro'],1
+"['pomo-doro', 'casitalia']",1
+['pommes-d-or'],1
+['vairo'],1
+['aylmer'],1
+['uncle-bens'],1
+['perez-safuente'],1
+['prix-choc'],1
+['profesional-coosur'],1
+"['u-bon-vegetarien', 'u']",1
+"['u-mat-lou', 'u']",1
+['agrinatura'],1
+"['produits-blancs', 'carrefour']",1
+['produit-du-terroir'],1
+['avery-island-la'],1
+['premier-prix'],1
+['ulker'],1
+['un-brin-sauvage'],1
+['primaflor'],1
+['prima-taste'],1
+['avokado'],1
+['aglob'],1
+['pommery'],1
+['pombina'],1
+['bahadourian'],1
+['pesto-piu'],1
+"['picard', 'formule-express']",1
+"['pic-express', 'marque-repere', 'tables-du-monde']",1
+['piacelli'],1
+['palacio-de-oriente'],1
+['vegana'],1
+['veganz'],1
+['vergy'],1
+['polimark'],1
+['pescanova-dippeo'],1
+['veritas'],1
+"['barilla', 'kalkof']",1
+"['vertigu', 'halieutis-fish-co']",1
+"['pernici', 'pasta-brushetta']",1
+['pernic'],1
+"['picard', 'picard']",1
+['ballymaloe'],1
+['vantastic-foods'],1
+['valpibio'],1
+['balade'],1
+['pikarome'],1
+['pilchards'],1
+['pingo-doce'],1
+['piquidy'],1
+['valfrutta'],1
+['pitenis'],1
+['pizza-hut'],1
+['valfleuri'],1
+"['baktat', 'bakta']",1
+['baionade'],1
+['valette'],1
+"['agis', 'collection-pour-vous']",1
+['paladin'],1
+['tat'],1
+"['palacio-de-oriente', 'conservas-antonio-alonso']",1
+['moutarderie-de-luxembourg'],1
+['my-chef'],1
+['mx3'],1
+['mutti-s-p-a'],1
+['bennet'],1
+"['mutti', 'parma']",1
+['yoplait'],1
+['muji'],1
+['mrs-fields'],1
+['mrs-crimble-s'],1
+['mrs-bridges'],1
+['mr-organic'],1
+"['mr-naga', 'shahnaz-food-products-ltd']",1
+['mr-min'],1
+['yummys'],1
+['mp-phalempins'],1
+['namaste-india'],1
+"['benedicta', 'heinz', 'h-j-heinz-france']",1
+['napopizza'],1
+['belmar-pilchards'],1
+['ww'],1
+"['włocławek', 'agro-nova-food']",1
+"['belle-france', 'le-reflexe-bio']",1
+"['xox-geback-gmbh', 'bravo', 'penny']",1
+['naturalia'],1
+['belma'],1
+['yabon'],1
+['yeo-s'],1
+['yamasa'],1
+['natur-gourmet'],1
+['natur-compagnie'],1
+['a-paesana'],1
+"['yeo-s', 'yeo-hiap-seng-malaysia-bhd']",1
+['national-canners-limited'],1
+['moutarderie-du-luxembourg'],1
+['moulin-du-calanquet'],1
+"['pain-de-mer', 'conservas-antonio-perez-lafuente']",1
+['bensoussan'],1
+"['monique-ranou', 'intermarche']",1
+['zest'],1
+['monin'],1
+['mondo-italiano'],1
+['zeytouna'],1
+['moli-de-pomeri'],1
+['zia-rosa'],1
+['moi-j-aime-sa-douceur'],1
+"['365', '365-everyday-value']",1
+['mo-ly'],1
+['big-jeff'],1
+['тодорка'],1
+['123-bio'],1
+['miyata'],1
+"['mix-multitude-d-ingredients-savoureux', 'mix-buffet']",1
+"['365-everyday-value', 'whole-foods']",1
+"['monop-daily', 'monoprix']",1
+['zapi'],1
+['zakia-halal'],1
+['yummyto'],1
+['mosaique'],1
+['yutaka'],1
+"['morvandelles', 'aldi', 'maro-oceans']",1
+['zakia'],1
+['morin'],1
+['montperal'],1
+"['monoprix', 'monoprix-exploitation', 'groupe-casino']",1
+['zalea'],1
+['betiko'],1
+"['mont-asie', 't-t-foods']",1
+['biagi'],1
+['365-everyday-value'],1
+"['monoprix', 'monoprix-gourmet']",1
+['nature-moi'],1
+['wloclawek'],1
+"['wish-bone', 'pinnacle-foods-group-llc']",1
+['a-taste-of-thai'],1
+['oriental-gourmet'],1
+['oriental'],1
+"['walden-farms', 'walden-farms-inc']",1
+['organicville'],1
+['organics'],1
+['walden-farms'],1
+['one-night-in-mexico'],1
+['olymp'],1
+['basilio'],1
+['olivier-co'],1
+['oliveraie-jeanjean'],1
+['old-riga'],1
+"['batts', 'snack-day']",1
+"['old-el-paso', 'oldelpaso']",1
+['bautz-ner'],1
+['original-juan'],1
+['original-juan-specialty-foods'],1
+['original-juan-specialty-foods-inc'],1
+['acapulco'],1
+['pagoda'],1
+"['vitasia', 'vitasia-china']",1
+['paez-morilla'],1
+"['vitasia', 'vitasia-thai', 'lidl']",1
+['ovi'],1
+['osem'],1
+['orocbat'],1
+['waitrose'],1
+['vitasia-china'],1
+['vivo'],1
+['vleminckx'],1
+"['prontofresco', 'greci']",1
+['barrio-fiesta-manufacturing-corporation'],1
+['voyager'],1
+"['old-bay', 'mccormick-co-inc']",1
+['oishiya'],1
+['odyssee'],1
+"['nestle', 'maggi']",1
+['niko'],1
+['nicolas-alziari'],1
+"['werder-feinkost', 'werder']",1
+['whole-foods'],1
+['bedros'],1
+['wickedly-prime'],1
+['neblia'],1
+"['weight-watchers', 'marie']",1
+['bella-parma'],1
+['nawahl-s'],1
+"['naturnes', 'nestle', 'nestle-bebe', 'bebe-nestle']",1
+"['naturgie', 'saveurs-attitudes']",1
+['natureta'],1
+"['a-vogel', 'a-vogel', 'bioforce']",1
+['a-vogel'],1
+"['nixe', 'lidl']",1
+"['odyssee', 'intermarche', 'capitaine-cook']",1
+['notre-terre'],1
+['ocado'],1
+['bautzner'],1
+['o-co'],1
+"['abc', 'heinz']",1
+['nu3'],1
+['nr-instant-produce-co-ltd'],1
+['baxters'],1
+['bbq-zeit-zum-grillen'],1
+"['nos-regions-ont-du-talent', 'leclerc']",1
+"['nos-regions-ont-du-talent', 'conserverie-du-languedoc', 'leclerc']",1
+['bbq-spot'],1
+['noh'],1
+['weider'],1
+['noa'],1
+"['promocash', 'en-cuisine']",1
+"['quick', 'soreal', 'soreal-ilou']",1
+['authentique-grec-by-ifantis'],1
+"['simon', 'simon-dutriaux']",1
+['the-french-food-company'],1
+['annas-best'],1
+['anne-rozes'],1
+['socodal'],1
+['socidal'],1
+['so-nigiri'],1
+['snack-fun'],1
+['the-good-spoon'],1
+"['skippy', 'hormel-foods-sales']",1
+['siracha-hot-chilli-sauce'],1
+['sin-wah-foods'],1
+['annie-s'],1
+['theppadungporn-coconut-co-ltd'],1
+['simply-greek'],1
+['simplement-bon-et-bio'],1
+['sojasun'],1
+['sojhappy'],1
+['the-coconut-kitchen'],1
+['anima-veg'],1
+['thai-expert'],1
+['solvia'],1
+"['solvia', 'solvia-bio']",1
+['solleone-bio'],1
+"['thai-heritage', 'eric-bur']",1
+['anatra'],1
+"['solis', 'societe-des-produits-nestle-s-a', 'nestle-s-a']",1
+"['sol-via', 'les-mets-de-provence-s-a-s']",1
+['solimo'],1
+['soleillans-et-provence-tomates'],1
+['algo-plus'],1
+['alfieri'],1
+['alfez'],1
+['thamina'],1
+['thessalia'],1
+['sill-au-dinner-gourmand'],1
+['soy'],1
+['signorini-tartufi'],1
+['selextra'],1
+['selex'],1
+['appel'],1
+['select-saveurs'],1
+['select-sauce'],1
+['arche'],1
+['argal'],1
+"['segreti-di-riva', 'riva-france']",1
+['secrets-de-famille'],1
+['second-house-products'],1
+['schwartau'],1
+['three-crabs'],1
+['schneider-s'],1
+"['saxo', 'promocash']",1
+['savor-sens'],1
+['sempio'],1
+"['aldi', 'kim']",1
+['servi-vita'],1
+"['thiriet', 'thiriet']",1
+"['thiriet', 'thieret']",1
+['antona'],1
+['signor-cempo'],1
+['sicilia'],1
+['aoste'],1
+['siam-ss'],1
+['alfa'],1
+['apollo'],1
+['shibanuma'],1
+['sharwood-sm'],1
+"['apollo', 'cap-traiteur']",1
+"['shanggie', 'nr-instant-produce-co-ltd']",1
+['alesse'],1
+['sevan'],1
+['sommer-party'],1
+['soy-vay'],1
+['savino'],1
+['sushi-chef'],1
+['amandin'],1
+['tendre-et-plus'],1
+"['tabasco', 'mcilhenny-co', 'mcilhenny']",1
+"['tabasco', 'mc-ilhenny-co', 'unilever-france', 'unilever']",1
+['ta-amy'],1
+['tendriade'],1
+"['terra-madre', 'mon-melange']",1
+['sweet-harvest'],1
+['amazon'],1
+['american'],1
+['suziwan'],1
+['ametller-origen'],1
+['sushi-shop'],1
+['sushi-daily'],1
+"['sushi-daily', 'thai-heritage']",1
+['tempe'],1
+"['tables-du-monde', 'marque-repere', 'pic-express']",1
+['amaizin-organic'],1
+['tea-together'],1
+['taste-of-thailand'],1
+['taste-of-malta'],1
+['tartufe-jimmy-srl'],1
+['tarte-ou-citron'],1
+['tapatio-foods-llc'],1
+['tat-hui-foods-co'],1
+['teekanne'],1
+['tajin'],1
+['tapatio'],1
+['tao-tao'],1
+['tanoshi'],1
+['amaizin'],1
+['tamek'],1
+['tamazula'],1
+"['sushi-daily', 'baycliff-company-inc']",1
+"['surya-foods', 'flying-goose-brand']",1
+['an-n-cuon-co-ltd'],1
+['amicaverde'],1
+['amira'],1
+['alinor'],1
+['stockyard'],1
+['sterilgarda'],1
+['amor'],1
+['starlux'],1
+"['star', 'tigullio']",1
+['thai-choice'],1
+"['thai-dancer', 'food-specialize-co-ltd']",1
+['sriracha-kosol-ampa'],1
+['sriracha-chili-sauce'],1
+['sriracha'],1
+['squid-brand'],1
+['squid'],1
+['spar-veggie'],1
+"['stubb-s', 'mccormick-company-inc']",1
+['amir-benamor'],1
+"['stubb-s-texas', 'stubb-s']",1
+['all-joy'],1
+['sur-le-sentier-des-bergers'],1
+['alnavit'],1
+['supersol'],1
+"['alnatura', 'migros']",1
+['terre-d-opale'],1
+['supagro'],1
+"['sunchang', 'daesang']",1
+"['sud-n-sol', 'veg-a-table']",1
+['alipende'],1
+['sukina'],1
+"['tesco-finest', 'tesco']",1
+['sugo'],1
+['sud-saveurs'],1
+['amin'],1
+['savoir-sens'],1
+['tiger-khan'],1
+"['ahinur', 'natur-food']",1
+['traiteur-philippe'],1
+"['al-rabih', 'sonaco']",1
+"['tradizioni-d-italia', 'sugo']",1
+['tradizioni-d-italia'],1
+['relais-gourmand'],1
+['reine-de-dijon'],1
+['reily-foods-company'],1
+"['auchan', 'l-oiseau']",1
+"['auchan', 'mmm', 's-a-delouis']",1
+['rega-rega'],1
+['rega'],1
+"['reflets-de-france', 'cmi-carrefour-marchandises-internationales', 'groupe-carrefour']",1
+['red-s'],1
+['recette-artisanal'],1
+['real-thai'],1
+['real-quality'],1
+['rewe-bio'],1
+['reynaud-de-pernes'],1
+['trader-giotto-s'],1
+['roland-monterrat'],1
+"['royal', 'tang-freres']",1
+['rossociliegino-agricola'],1
+['rossmann'],1
+['rong-vang'],1
+['atlas'],1
+"['rolli', 'conserves-france']",1
+['aladdin'],1
+['riesa'],1
+"['tous-les-palais-du-monde', 'aspasia']",1
+"['auchan', 'auchan-production', 'groupe-auchan', 'l-oiseau']",1
+"['rivoire-carret', 'rivoire-et-carret']",1
+['rival'],1
+['ritrova-selections'],1
+['rinatura'],1
+['real'],1
+['raynaud'],1
+['royal'],1
+['akal-food'],1
+['alpina'],1
+['turini'],1
+['qualite-prix'],1
+['qualitalia-puglia'],1
+['qilibri'],1
+['puressentiel'],1
+['ty-gwen'],1
+['tyrrell-s'],1
+"['u', 'systeme-u']",1
+['pur'],1
+['puget'],1
+['aicha'],1
+['publicis'],1
+['authentic-tasty'],1
+"['psp', 'paris-store']",1
+"['quick', 'soreal-ilou']",1
+['quick'],1
+['quinta-d-avo'],1
+['tukas'],1
+"['raynal-et-roquelaure', 'zapetti']",1
+['raymond-geoffroy'],1
+['rayan'],1
+"['auchan-bio', 'auchan']",1
+['raoul-gey'],1
+['trufflies'],1
+['ramonas-kitchen'],1
+['quintesens'],1
+['ramona-s-kitchen'],1
+['auchan-bio'],1
+['racines-bio'],1
+['racines'],1
+"['ail-ail-ail', 'ail-ail-ail']",1
+['rabeko'],1
+['tostitos'],1
+['tornatore'],1
+['saveurs-modernes'],1
+"['samia', 'haudecoeur']",1
+"['sans-marque', 'pauwels']",1
+"['sans-marque', 'kermene']",1
+"['sans-marque', 'jouneau']",1
+"['sans-marque', 'dawn-meats']",1
+['tiptree'],1
+"['tokapi', 'marque-repere']",1
+"['sans-marque', 'conserves-france', 'carrefour']",1
+"['sans-marque', 'compagnie-generale-de-conserve']",1
+"['sans-marque', 'agis']",1
+['sanofruit'],1
+['tomate'],1
+['san-yan-brand'],1
+['arok'],1
+['tomate-martin'],1
+['aromandise'],1
+"['sans-marque', 'r-r']",1
+['armorial'],1
+['armand-blot'],1
+['argel'],1
+"['tigullio', 'star']",1
+"['saveurs-forestieres', 'ldc']",1
+['albo'],1
+['saveurs-du-vercors'],1
+['saveurs-de-sauces'],1
+['saveurs-de-nos-regions'],1
+['saveol'],1
+['santoro'],1
+['tiparos-fish-sauce'],1
+['sauve'],1
+['arisi'],1
+['alberti'],1
+['sapori-regioni'],1
+"['saporalia', 'amarfood']",1
+['aropiz'],1
+['salsalito'],1
+['alain-milliat'],1
+['tomato-frito'],1
+['sacrebleu'],1
+"['artisan-de-la-truffe-paris', 'artisan-de-la-truffe']",1
+"['sacla-italia', 'sacla']",1
+['sacla-bio'],1
+['artisan-popol'],1
+['sabra'],1
+['asia'],1
+"['s-b', 's-b-shokuhin-company-ltd']",1
+"['top-budget', 'top-budget']",1
+"['rustica', 'rustica', 'marque-repere']",1
+['assi'],1
+['russo'],1
+['atelier-bernard-marot'],1
+['rufus-teague'],1
+['rubies-in-the-rubble'],1
+"['top-budget', 'intermarche']",1
+['safa'],1
+"['sainsbury-s', 'by-sainsbury-s']",1
+"['saladinettes', 'chef-select']",1
+['salsa-tamazula-s-a-de-c-v'],1
+['salsa-maestra'],1
+['salsa-gusto'],1
+['salamita'],1
+['salaisons-de-bourbon'],1
+['tomi'],1
+"['aroy-d', 'aroy-d']",1
+"['sainsbury-s', 'sainsbury-s-so-organic']",1
+['tonton'],1
+['tony-chachere-s'],1
+['saint-jean'],1
+"['artigiana-genovese', 'artigiana-genovese-bio']",1
+"['saint-christophe', 'produits-saint-christoph']",1
+['artigiana-genovese'],1
+"['coop-naturaplan', 'coop']",1
+['marie-dupin'],1
+"['mister-choc', 'mister-ho']",1
+['garrigou-carqueiranne'],1
+['cavicchi'],1
+"['giovanni-rana', 'rana']",1
+['celebrate-health'],1
+['cellier-sarlat'],1
+['gewurzica'],1
+['germaline'],1
+['georg-thalhammer-kurbis-ketchup'],1
+['gayelord-hauser'],1
+['cenovis'],1
+['gitte-s-zaubertopf'],1
+['garden-gourmet'],1
+['garden-food'],1
+['gaia'],1
+['futaba'],1
+['chateau-d-estoublon'],1
+['che-sud'],1
+"['fuchs', 'epices-fuchs']",1
+['frusano'],1
+['castellino'],1
+['golal'],1
+['great-value'],1
+"['casino', 'groupe-casino']",1
+['grashoff'],1
+['granovita'],1
+['granny-s-secret'],1
+"['granny-s-secret', 'granny-s-secret']",1
+['grandjean'],1
+['grandes-hoteles'],1
+['granda-tradizioni'],1
+"['casino', 'casino-delices']",1
+"['grand-jury', 'carrefour']",1
+['golden-mountain'],1
+['grand-frais'],1
+['grace'],1
+['goya-foods-inc'],1
+"['casino-ca-vient-d-ici', 'casino']",1
+['gotxoki'],1
+"['goldjick', 'siberia-group']",1
+['golden-turtle-brand'],1
+"['golden-seafood', 'aldi-einkauf-gmbh-compagnie-ohg']",1
+['fruco'],1
+['frima'],1
+"['chef', 'nestle-professionnal', 'nestle']",1
+['cidacos'],1
+['flying-goose'],1
+['chez-tante-edith'],1
+['chi-wan'],1
+"['florentin', 'maayane']",1
+"['chipotle', 'figueroa-brothers-inc']",1
+"['florello', 'ital-passion']",1
+"['florelli-bio', 'florelli']",1
+"['florelli', 'ital-passion']",1
+"['fleury-michon', 'bbq-box']",1
+"['freshona', 'backfee']",1
+"['fleury-michon', 'ball-in-box']",1
+['fleurons-de-lomagne'],1
+['fisterra'],1
+['fischer-wieser-specialty-foods-inc'],1
+['firat'],1
+"['fiorini', 'intermarche']",1
+['fiorelli'],1
+['fiorella-s-jack-stack-barbecue'],1
+"['flying-goose-brand', 'exotic-food-pcl']",1
+"['follow-your-heart', 'earth-island']",1
+"['chef-to-go-select', 'saladinettes']",1
+['foodex'],1
+['fresh-gourmet'],1
+['frenchs'],1
+['french-s-uk'],1
+['chef-s-best'],1
+"['french-s', 'french-s']",1
+['freddy-s'],1
+['fray-bentos'],1
+['frantoio-venturino-bartolomeo'],1
+"['chef-select-to-go', 'lidl']",1
+"['franprix', 'marche-franprix']",1
+['frank-s'],1
+"['frank-s', 'french-s']",1
+['francaise-de-gastronomie'],1
+['frami'],1
+['chef-select-you-lidl'],1
+['forster'],1
+['foodmaker'],1
+['grazie'],1
+['green-heart'],1
+"['mississippi-barbecue-sauce', 'the-fremont-company', 'mississippi']",1
+"['humm', 'fontaine-sante']",1
+['carrefour-discount'],1
+['iglo'],1
+['carrefour-nutrition'],1
+['idees-de-saison'],1
+['hưng-thanh'],1
+['huy-fong-foods'],1
+['carrefour-selection'],1
+['carrefour-veggie'],1
+['hp-foods'],1
+['iller'],1
+['carres-futes'],1
+"['house-foods-corporation', 'house-foods']",1
+['houmous'],1
+['hot-chipotle-bbq-sauce'],1
+['horeca-select'],1
+['carretilla'],1
+['homestyle'],1
+['historic-lynchburg'],1
+['il-sole-della-riviera-ligur'],1
+"['ilou', 'soreal']",1
+"['casino', 'casino-bio']",1
+['j-aime-boc-oh'],1
+"['carrefour', 'bonapp']",1
+"['jardin-bio', 'jardin-bio', 'lea-nature']",1
+['jacquier-hache'],1
+"['jack-daniels', 'jack-daniel-s']",1
+"['carrefour', 'carrefour-selection', 'groupe-carrefour']",1
+"['jack-daniel-s', 'heinz']",1
+['ja'],1
+"['j-c-david', 'jc-david', 'jcdavid']",1
+"['izico-belgium', 'bicky']",1
+['inconnue'],1
+['italpesto'],1
+['italpasta'],1
+"['carrefour-bio', 'carrrefour']",1
+"['italiamo', 'lidl']",1
+"['italiamo', 'freshona']",1
+"['italiamo', 'combino']",1
+['isabel'],1
+['iris'],1
+['hipp'],1
+['hideko'],1
+['hidden-valley'],1
+['gvtarra'],1
+['casimex'],1
+['haldiram-s'],1
+['hak'],1
+['haechandle'],1
+"['haechandle', 'cj']",1
+['haday'],1
+['casina-rossa'],1
+"['gyma', 'kfc']",1
+['gusto'],1
+['casa-de-mateus'],1
+['gusti-italiani'],1
+['guinness'],1
+['guan-ki-brand'],1
+['groix-nature'],1
+['grill-party'],1
+['greenwise'],1
+['greenorganics'],1
+['greenmarket'],1
+['hanamaruki-foods-inc'],1
+['handlmaier'],1
+['harissa-bensoussan'],1
+['hartkorn'],1
+['herta'],1
+['herr-edelmann'],1
+['hero-baby'],1
+['hero'],1
+['henri-raffin'],1
+['casa-mas'],1
+['casa-morando'],1
+['casarinaldi'],1
+['caserta'],1
+"['heinz', 'p-tits-heinz']",1
+"['heinz', 'kraft']",1
+"['heinz', 'h-j-heinz']",1
+"['heinz', 'burger-king']",1
+"['healthy-boy-brand', 'เด็กสมบูรณ์']",1
+"['he-geste-berg', 'hengestenberg']",1
+['hatwa-halal'],1
+['hatherwood'],1
+['festifruits'],1
+['ferrero'],1
+"['cj', 'cj-foods']",1
+['compal'],1
+['delize-dora'],1
+['delices-des-baronnies'],1
+"['compagnie-des-pyrenees', 'copyr']",1
+['delice-de-guyane'],1
+['compagnie-des-pyrenees'],1
+"['delicato', 'd-antelli']",1
+"['delicato', 'conserves-france']",1
+['delhaize-bio'],1
+['delamarre'],1
+['delmonaco'],1
+['delabli'],1
+"['delabli', 'blini']",1
+['comptoirs-des-saveurs'],1
+['deep-river-snacks'],1
+"['decouverte-maroc', 'kooz']",1
+['dececco'],1
+['dea'],1
+['comtesse-du-barry'],1
+['delka-s-a'],1
+['compagnia-liguri'],1
+['fermette'],1
+['devina'],1
+['diana'],1
+['diamir'],1
+"['colman-s-of-norwich', 'colman-s', 'colman']",1
+['colman-s-of-norwich'],1
+['dewi'],1
+"['colona', 'colina']",1
+"['devos-lemmens', 'continental-foods']",1
+['devos-lemens'],1
+"['combino', 'italiamo']",1
+"['deluna', 'italmex']",1
+"['combino', 'la-doria']",1
+['desiam'],1
+['desantis'],1
+['dennree'],1
+"['combino', 'lidl']",1
+['denja'],1
+"['deluxe-lidl', 'deluxe']",1
+"['deluxe', 'lidl']",1
+['daylesford'],1
+['davert'],1
+['dave-s-gourment'],1
+['cote-mer'],1
+['croc-frais'],1
+['creole-facile'],1
+['creole-fac-ile'],1
+"['creole-fac-ile', 'creole-facile']",1
+['continente'],1
+['cran-cucina'],1
+"['cook', 'arcadie']",1
+"['cook-with-m-s', 'marks-spencer']",1
+"['coop', 'betty-bossi', 'naturaplan']",1
+['conimex'],1
+['coroos'],1
+['cordon-bleu'],1
+['cora-match'],1
+"['coop', 'jamadu']",1
+"['cora', 'nature-bio']",1
+"['coop', 'unigra']",1
+['coq'],1
+['copyr'],1
+['contadina'],1
+['crustarmor'],1
+['crystal'],1
+"['cucina', 'aldi']",1
+['datu-puti'],1
+['conserverie-casatorra'],1
+"['danival', 'le-moulin-d-andiran']",1
+['dani'],1
+['daminiani'],1
+"['daminiani', 'pates-daminiani']",1
+['damhert'],1
+['daiya'],1
+['daily-sauce'],1
+['daesang'],1
+['conserverie-des-saveurs'],1
+"['d-l', 'devos-lemmens']",1
+['d-antelli'],1
+['cuisine-evasion'],1
+"['cuisine-evasion', 'picard']",1
+['conserves-de-bourgogne'],1
+['conserves-lapeyrie-fils'],1
+['divella'],1
+"['colman-s', 'unilever']",1
+['dl'],1
+['clemente-jacques'],1
+['estourel'],1
+['est-friture'],1
+['classic-foods-of-america'],1
+['eroski'],1
+"['claude-leger', 'monique-ranou']",1
+['eric-favre'],1
+['clean-food'],1
+['equinox'],1
+['clos-perriere'],1
+['el-saada'],1
+['emils'],1
+['clovis'],1
+"['emile-noel', 'huilerie-emile-noel']",1
+['clovis-france'],1
+"['elle-vire', 'savencia']",1
+['elisabeth-patignac'],1
+['elibio'],1
+['el-tequito'],1
+['eta'],1
+['etxe-peio'],1
+['everyday'],1
+['excellence'],1
+['ferbar'],1
+['fen-yang-qlao'],1
+['clac'],1
+['feinkost-dittmann'],1
+['favols'],1
+['fastcity'],1
+['fantasia'],1
+['fan-de-barbecue'],1
+['famous-dave-s'],1
+['fairway'],1
+['exquisit'],1
+['expom-s-r-l'],1
+['exotic-food-plc'],1
+['exotic-food-pcl'],1
+"['exotic-food-pcl', 'flying-goose-brand']",1
+['classic-foods'],1
+"['exotic-food', 'flying-goose-brand']",1
+"['el-tequito', 'crusti-croc']",1
+['el-saaba'],1
+['dm'],1
+['don-joaquin'],1
+['double-concentre-de-tomates'],1
+['collegrande'],1
+['donna-antonia'],1
+['donkey-sauces-llc'],1
+['dona-chonita'],1
+['dona'],1
+['don-peppe'],1
+['don-juan'],1
+['don-fernando'],1
+['el-miziena'],1
+['don-antonio'],1
+['dominos'],1
+"['domino-s', 'la-case-aux-epices']",1
+['domaine-des-terres-rouges'],1
+['dom-duarte'],1
+['collet'],1
+"['dmbio', 'dm-bio']",1
+['dm-bio'],1
+['coertjens'],1
+"['ducros', 'melange-malin', 'mccormick']",1
+"['cock-brand', 'coq']",1
+['dukan'],1
+['el-manara-de-djerba'],1
+['el-manar'],1
+['el-guiso'],1
+['el-cultivador'],1
+['ekolo'],1
+['edora'],1
+['co'],1
+['coaliment'],1
+"['eden', 'eden']",1
+['ecomil'],1
+"['cock', 'cock-brand']",1
+"['eco', 'scamark-filiale-e-leclerc']",1
+['earth-island'],1
+['earl-le-jardin-d-ella'],1
+"['eaglobe', 'tat-hui-foods-co']",1
+['durra'],1
+"['dunn-s-river', 'grace-foods-uk-ltd']",1
+"['jc-david', 'j-c-david', 'jcdavid']",1
+['jean-baptiste-lambert'],1
+['jean-freres'],1
+['live-food-products-inc'],1
+['lusitana'],1
+"['lukull', 'unilever']",1
+['bizim'],1
+"['lowicz', 'łowicz']",1
+['louisiana-fish-fry-ltd'],1
+['block-house'],1
+['lotus-rouge'],1
+['lomee'],1
+['limafood'],1
+['lustucru'],1
+['bo-cocos'],1
+"['lillie-s-q', 'lillie-s-q']",1
+"['bo-no', 'les-menus-du-monde']",1
+['liebig'],1
+['librand'],1
+['libeluile'],1
+['leverno'],1
+['leslie-s-organics-llc'],1
+['lust-auf-grillen'],1
+['lustucru-selection'],1
+['les-artisans-du-bio'],1
+['biscuiterie-delaunay'],1
+['maison-argaud'],1
+['biper-gorri'],1
+['maggie'],1
+['bipertegia'],1
+"['maggi', 'papillotes', 'nestle']",1
+"['maggi', 'nestle', 'papillotes']",1
+"['mae-ploy', 'theppadungporn-coconut-co-ltd']",1
+"['maderne', 'madern', 'les-plats-d-ailleurs']",1
+['made-in-japan'],1
+"['lynchburg-merchandise', 'jack-daniel-s']",1
+['macro'],1
+['mackays'],1
+['biscuiterie-des-marais'],1
+['bisto'],1
+"['m-s', 'marks-and-spencer', 'marks-spencer']",1
+['m-p'],1
+['bixente-ibarra'],1
+['m-budget'],1
+['bocaron'],1
+"['lesieur', 'lesieur-professionnel']",1
+"['lesieur', 'avril']",1
+['les-delices-de-l-ogresse'],1
+"['les-freres-culinaires', 'pro-reca']",1
+['bon-appetit'],1
+"['bon-chef', 'migros']",1
+['les-delices-du-luberon'],1
+['les-delices-de-yemma'],1
+['les-delices-de-st-cirice'],1
+['les-delices-de-la-mer'],1
+"['les-delices-de-l-olivier', 'confiserie-d-olives-alain-soler']",1
+['bon-ri'],1
+['les-toques-blanches-du-monde'],1
+['les-delectables'],1
+['les-crudettes'],1
+['les-cremeux-de-la-comtoise'],1
+['les-comtes-de-provence'],1
+['les-chaumes-d-allias'],1
+['les-bories-du-perigord'],1
+['bonduele'],1
+"['les-bons-petits-plats', 'picard']",1
+['les-freres-culinaires'],1
+['les-fruits-de-la-montagne-corse'],1
+['bon-app'],1
+['les-jardins-d-adrien'],1
+['les-toques-blanches'],1
+"['les-toques-blanches', 'les-toques-blanches-du-monde']",1
+['bocco-locco'],1
+['les-saveurs-de-renima'],1
+['les-sauces-de-charlotte'],1
+['les-recettes-du-boucher'],1
+['les-recettes-beaumoulin'],1
+['les-produits-de-la-vie'],1
+['bofrost'],1
+['les-pecheurs'],1
+['les-occitanes'],1
+['les-nicois'],1
+['les-moulins-mahjoub'],1
+"['les-mouettes-d-arvor', 'les-mouettes-d-arvor']",1
+['les-marmites-d-augustine'],1
+['les-loges'],1
+['les-jardins-de-carthage'],1
+['maison-bremond-1830'],1
+['biovivier-conserverie'],1
+['maison-potier'],1
+"['meadow-fresh', 'simply-sumptuous']",1
+['bio-asia'],1
+['meridian'],1
+['menu-co'],1
+['bio-gustiamo'],1
+['melinda-s'],1
+['mee-chun-canning-co'],1
+['bio-k'],1
+['mechamment-bon'],1
+['mcllhenny-company'],1
+['mayane'],1
+['mcilhenny-company'],1
+"['bio-verde', 'bio-verde']",1
+['bio-village'],1
+"['mcdonald-s', 'mccormick']",1
+"['mcdonald-s', 'gyma']",1
+"['mcdonald-s', 'develey']",1
+"['mccormick', 'mccormick-co-inc']",1
+['mccilhenny'],1
+['meyer'],1
+['mf'],1
+['miceli'],1
+['micro-batch'],1
+"['mississippi', 'agidra']",1
+['mission'],1
+['mirador'],1
+"['mirador', 'migros', 'haco']",1
+['big-sam-s'],1
+['mille-olives'],1
+['mille-et-une-huiles'],1
+['milbona'],1
+['mikoya'],1
+['migros-selection'],1
+"['migros-selection', 'migros']",1
+"['migros-bio', 'migros']",1
+['migros'],1
+"['migros', 'mirador']",1
+"['migros', 'm-classic']",1
+['bigard'],1
+"['bio', 'eigenmarke-aldi-sud']",1
+['mc-ilhenny-compagny'],1
+['maya-kaimal'],1
+['maison-prosain'],1
+['mama-mancini'],1
+['marina'],1
+['coop-naturaplan-bio'],1
+['biosaurus'],1
+"['marche-franprix', 'distribution-franprix', 'groupe-casino']",1
+['bioteam'],1
+['biotechusa'],1
+['man-kan'],1
+['man-fong'],1
+['mam-nhī'],1
+"['maxwell-house', 'moutarde-de-meaux']",1
+['malza'],1
+['malartre'],1
+['maizena'],1
+"['maizena', 'unilever']",1
+"['biotrend', 'burkhardt-feinkostwerke-gmbh', 'kania']",1
+['maison-st-geours'],1
+['maison-saint-lo'],1
+['maison-raymond'],1
+['bionade'],1
+"['marks-and-spencer', 'm-s']",1
+['marks-ans-spencer'],1
+"['marks-spencer', 'm-s']",1
+['mautner-markhof'],1
+['matindoux'],1
+['masterfoods'],1
+['biobistro'],1
+['marukin'],1
+"['martin-bio', 'alain-martin']",1
+['mars'],1
+['marque-repere'],1
+"['marque-repere', 'volandry']",1
+['bioforce-france'],1
+['biogourmet'],1
+['biogra'],1
+"['marque-repere', 'pic-express']",1
+"['marque-repere', 'cote-table']",1
+"['marque-repere', 'cote-snack']",1
+['marque-coq'],1
+"['marks-spencer', 'simply-m-s']",1
+['les-boc-s'],1
+['leggo-s'],1
+['jean-herve'],1
+['l-art-des-saveurs'],1
+"['l-epicurien', 'l-epicurien']",1
+['butcher-s'],1
+"['l-atelier-v', 'l-atelier-v']",1
+['l-atelier-miti'],1
+"['l-atelier-miti', 'miti']",1
+['by-oscar'],1
+"['l-atelier-blini', 'blini-delabri']",1
+['l-artisan-popol'],1
+['by-sainsbury-s'],1
+['l-everno'],1
+"['l-apero-du-poissonnier', 'delabli']",1
+"['l-aperitif', 'mix-buffet']",1
+['c-tout-simple'],1
+['krini'],1
+"['kraft-foods', 'kraft']",1
+['ca-dell-orto'],1
+['koon-chun'],1
+"['komla', 'leader-price']",1
+['burger-king'],1
+['l-herbier-sauvage'],1
+"['lee-kum-kee', '李錦記']",1
+"['la-bio-idea', 'markal']",1
+['la-corne-de-gazelle'],1
+['la-conserve-della-nonna'],1
+['la-comtesse'],1
+['la-compagnie-des-maraichers'],1
+['la-compagnie-des-bocaux'],1
+['la-compagnie-artique'],1
+['la-boutique-provencale'],1
+['bulls-eye'],1
+['bunalun-organic'],1
+['l-ile-bleue'],1
+"['la-belle-iloise', 'la-belle-iloise']",1
+['burger-gourmand'],1
+['la-barre'],1
+['la-bandera'],1
+['la-anita'],1
+['l-oli-d-oc'],1
+"['burger-king', 'heinz']",1
+['l-isola-d-oro'],1
+['knorr-unilever'],1
+"['knorr', 'unilever-food-solutions']",1
+"['knorr', 'unilever-deutschland']",1
+['jumbo'],1
+['kanokwan'],1
+['cap-traiteur'],1
+['kallø'],1
+"['kallø', 'kallo-foods-ltd']",1
+['kabuki'],1
+['carat'],1
+"['k-classic', 'let-s-bbq']",1
+['justin-bridou'],1
+['julien-mack'],1
+['callowfit'],1
+['joseph-valentine'],1
+['joly'],1
+['jim-beam'],1
+['jfc-international-inc'],1
+['jehu'],1
+['jeden-tag'],1
+['carefour-apero'],1
+['carl-kuhne-kg'],1
+"['cap-dinec', 'ferrigno']",1
+['cap-d-or'],1
+"['karma', 'coop', 'betty-bossi']",1
+['kasih'],1
+"['knorr', 'garde-d-or', 'unilever-food-solutions']",1
+['knor'],1
+"['kitchendiet', 'kitchen-diet']",1
+['kitchen-diet'],1
+['kirkland-signature'],1
+['king-s-crown'],1
+['kim-to'],1
+"['camarillo', 'agidra']",1
+['ki-xocolatl'],1
+['ketchup-betteraves'],1
+['ketch-up'],1
+['campo'],1
+"['kerets', 'kerels']",1
+['ken-s-steak-house'],1
+['kc-masterpiece'],1
+['kaviari'],1
+['kattus'],1
+['bulliard-s-louisiana-supreme'],1
+['la-cuisine-du-poissonnier'],1
+['la-delicieuse'],1
+['le-jardin-de-corentin'],1
+"['le-prix-gagnant', 'leader-price']",1
+['le-pere-eugene'],1
+['le-panier-du-pecheur'],1
+['le-paludier-de-guerande'],1
+['le-moulin-d-arche'],1
+['le-marche-provencal'],1
+['le-lozerien'],1
+['le-kiosque'],1
+['le-jardin-d-orante'],1
+"['bronx', 'small-axe-peppers-llc']",1
+"['le-grande-lejon', 'le-grand-lejon']",1
+"['le-gout-de-l-essentiel', 'leader-price', 'le-gout-de-l-essentiel']",1
+['le-gout-de-bretagne'],1
+['le-gourmet-des-marches'],1
+['bramwells'],1
+['brien'],1
+"['le-cesarin', 'fresh-easy-llc']",1
+['le-cantonnais'],1
+['le-prix-gagnant'],1
+['boucherie-francaise'],1
+"['le-savoureux', 'connetable']",1
+['le-sel-blanc-de-salies-de-bearn'],1
+['lee-brand'],1
+['lebgrand-lejon'],1
+['lebensbaum'],1
+['lebe-gesund'],1
+['bonsapore'],1
+['bonta-di-stagione'],1
+"['leader-price', 'delices-du-monde']",1
+['lea-perrins'],1
+['lea-nature-jardin-bio'],1
+['bordeaux'],1
+"['lea-nature', 'jardin-bio']",1
+"['le-val-de-lys', 'sanofruit']",1
+['le-tuye-de-mesandans'],1
+['le-traiteur-gourmet-par-aspasia'],1
+['bornibus'],1
+['le-traiteur-auchan'],1
+['le-terroir-a-table'],1
+['brindelices'],1
+['le-borvo'],1
+['la-extra'],1
+['la-maison-riviere'],1
+"['la-reine-du-cap-bon', 'reine-du-cap-bon']",1
+['la-quiberonnaise'],1
+['la-popote-compagnie'],1
+"['buitoni', 'nestle-professional']",1
+['la-petite-cabane'],1
+['la-pasta-artigianale'],1
+['bull-dog'],1
+['la-p-tite-fabrique'],1
+['la-maison-du-fromage'],1
+['lay-s'],1
+"['bull-s-eye', 'mondelez']",1
+['la-macina-ligure'],1
+['la-hanita'],1
+"['la-gastronomia-di-angelo', 'treo']",1
+['la-gallinara'],1
+['la-ferme-de-l-ouest'],1
+['la-favoritalive'],1
+['la-favorita-figh'],1
+"['la-reserve-de-champlat', 'reserve-de-champlat']",1
+['1001-delights'],1
+['la-retaise'],1
+"['buitoni', 'nestle']",1
+['lavandine'],1
+['latiur-montreal'],1
+['bruce-foods-inc'],1
+"['larnaudie-tradition', 'larnaudie']",1
+"['larnaudie', 'jean-larnaudie']",1
+['lao-ganma'],1
+['lantana'],1
+['lamesa'],1
+['lais'],1
+['lacroix'],1
+['lackmann'],1
+['brussels-ketjep'],1
+['bruzzone-ferrari'],1
+['la-villa'],1
+['btm'],1
+['la-vache-qui-regarde-passer-les-trains'],1
+['la-torrente'],1
+['1-2-3-bio'],1
