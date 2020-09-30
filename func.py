@@ -1,5 +1,8 @@
+import pandas as pd
+import numpy as np
+
 # 1.2 FUNCTION TO CHECK UNIQUE NON-NULL AND NON'' (empty) VALUES IN A COLUMN
-def unique_clean(data,col,pr=0):
+def unique_clean(data,col,pr=0, pd=pd):
     u=data[col].unique()
     clean=[]
     for m in u:
@@ -16,14 +19,14 @@ def unique_clean(data,col,pr=0):
 #CHECKOUT FOR SPECIFIC VALUES IN A COLUMN
 
 # function to extract a dataframe with a specific text contained in a dataframe column 
-def df_with_text(data,col,text):
+def df_with_text(data,col,text, pd=pd):
     col_contains_text = data[col].str.contains(text, regex=True, case=False)
     col_contains_text[col_contains_text.isna()]=False
     data[col_contains_text].head()
     return data[col_contains_text]
 
 # function to get rows with 1 specific text (string) in a dataframe column 
-def text_in_df(data,col,text):
+def text_in_df(data, col, text, pd=pd):
     data_extract=df_with_text(data,col,text)
     temp = data_extract[col].unique()
     values_containing_text = pd.DataFrame(list(filter(lambda a: a != "nan",temp )))
@@ -49,7 +52,7 @@ def values_U_not_nan(data,col_name):
 
 
 # ABC function to get rows with 2 specific texts (string) in a dataframe column 
-def two_text_in_df(data,col,text1,text2=''):
+def two_text_in_df(data,col,text1,text2='', pd=pd):
     data_extract=df_with_text(data,col,text1)
     temp = data_extract[col].unique()
     values_containing_text = pd.DataFrame(list(filter(lambda a: a != "nan",temp )))
@@ -64,7 +67,7 @@ def two_text_in_df(data,col,text1,text2=''):
 #---------------------------------------------------------------------
 #---------------------------------------------------------------------
 # 1.3 FUNCTION TO GET INDEX OF NON-NULL AND NON'' (empty) VALUES IN A COLUMN
-def not_nan_get_values(data,col_name,pr=0):
+def not_nan_get_values(data,col_name,pr=0, pd=pd):
     col_nan = data[col_name].isna() #list de bolean True/False (initial length)
     col_not_nan = ~ col_nan # ~ is used to inverse bolean values
     col_U = data[col_name][col_not_nan].unique()
@@ -74,7 +77,7 @@ def not_nan_get_values(data,col_name,pr=0):
         print('\n',col_U)
     return col_U
 
-def not_nan_get_index(data, col_name, pr=0):
+def not_nan_get_index(data, col_name, pr=0, pd=pd):
     col_nan = data[col_name].isna() #list de bolean True/False (initial length)
     col_U = data[col_name][~col_nan]
     if pr!=0:
@@ -83,7 +86,7 @@ def not_nan_get_index(data, col_name, pr=0):
         print('\n',col_U)
     return col_U.index
 
-def nan_get_index(data, col_name, pr=0):
+def nan_get_index(data, col_name, pr=0, pd=pd):
     col_nan = data[col_name].isna() #list de bolean True/False (initial length)
     col_U = data[col_name][col_nan]
     if pr!=0:
@@ -94,7 +97,7 @@ def nan_get_index(data, col_name, pr=0):
 
 
 # "VECTOR FUNCTION" TO CHECK IF ALL VALUE IN NP ARRAY ARE DECIMAL VLAUES
-def is_not_decimal(a):
+def is_not_decimal(a, np=np):
     return not np.char.isdecimal(a)
 
 #v_is_not_decimal = np.vectorize(is_not_decimal)
