@@ -131,6 +131,11 @@ def split_item_right(st) :
     elif isinstance(st[0], str) :
         return st[0]
 
+def split_text_left(text_to_split,text) :
+    if isinstance(text_to_split, str) :
+        return text_to_split.split(text, 1)[0] # keep first part [0] of split (before the splitter (st[1])
+    else :
+        return ''
 
 
 
