@@ -138,4 +138,3 @@ def split_text_left(text_to_split,text) :
         return ''
 
 
-
