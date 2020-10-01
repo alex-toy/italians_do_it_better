@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import re
 
 # 1.2 FUNCTION TO CHECK UNIQUE NON-NULL AND NON'' (empty) VALUES IN A COLUMN
 def unique_clean(data,col,pr=0, pd=pd):
@@ -138,3 +139,13 @@ def split_text_left(text_to_split,text) :
         return ''
 
 
+
+
+# s is the search to execute (compile)
+
+def find_weight(text):
+    s = re.compile('\d+G')
+    if isinstance(text,str):
+        weights=s.findall(text)
+        if len(weights) >0:
+            return weights[-1]
